@@ -1,7 +1,8 @@
 # Assembly-Instructions
 1. Download the model [model in STL]()
 2. Print it out 
-3. Buy coponents from following list 
+3. Buy coponents from following list
+ 
 | Component | URL | 
 |-|-|
 | Display | https://rpishop.cz/lcd-oled-displeje/1405-waveshare-55-hdmi-amoled-displej-1920x1080-kapacitni.html | 
@@ -13,6 +14,7 @@
 | Camera | https://rpishop.cz/mipi-kamerove-moduly/5600-raspberry-pi-camera-module-3-wide.html |
 | Camera cable | https://rpishop.cz/mipi/6501-raspberry-pi-5-camera-cable-standard-mini-200-mm.html |
 | Powerbank | https://rpishop.cz/mipi/6501-raspberry-pi-5-camera-cable-standard-mini-200-mm.html |
+4. Install camera and the cooling system 
 
 
 
