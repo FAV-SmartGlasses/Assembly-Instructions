@@ -1,7 +1,7 @@
-# Assembly-Instructions
+# Assembly Instructions
 
 ## Hardware
-- Download and print our model [Model STL]()
+- Download and print our model ([Model STL]())
 - Buy the components from the table bellow
  
 | Component                              | URL                                                                                                                                                                                                                                                                                                                                                                    | 
@@ -21,7 +21,7 @@
 1. Swap the camera cable - the default one isn't compatible with RPI 5
 2. Mount the cooling case and connect the camera to the CSI port
 
-# Imu sensor setup 
+## IMU sensor setup
 
 | IMU pin | RPI pin                                  |
 |---------|------------------------------------------|
